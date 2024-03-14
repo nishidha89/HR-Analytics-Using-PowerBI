@@ -22,6 +22,6 @@ Utilized Power BI Desktop to visualize the data and create interactive dashboard
 Created a seperate measure table to include all the measures.
 Used filters to filter the data and charts for visualizations.
 
-### Project Outcome:
+## Project Outcome:
 By analysing data through visualizations in dashboard it has been observed that according to months as June is approaching presence percentage is declining, WFH % is increasing, Sick Leave percentage is little bit increasing because of hot summer months.
 If we have software releases for client across June then we can do release planning accordingly as the presence percentage capacity for June is lower compared to other months.

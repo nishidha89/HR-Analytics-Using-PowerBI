@@ -1,6 +1,6 @@
 # HR-Analytics-Using-PowerBI
 
-The project aims to design a Power BI dashboard to track employee data for HR team which includes working hours,attendence,leaves for three months. The goal is to provide insights into attendence patterns and to differentiate between Work From Home (WFH) and Work From Office (WFO) percentages.
+The project aims to design a Power BI dashboard to track employee data for HR team which includes working hours,attendence,leaves for three months(April,May,June). The goal is to provide insights into attendence patterns and to differentiate between Work From Home (WFH) and Work From Office (WFO) percentages.
 
 ## Steps followed
 

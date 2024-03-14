@@ -4,20 +4,20 @@ The project aims to design a Power BI dashboard to track employee data for HR te
 
 ## Steps followed
 
-### Understanding problem:
+### 1. Understanding problem:
  Defined the scope of the analysis, focusing on attendance patterns,WFH and sick leave percentages.
 
-### Data Gathering and Transformation:
+### 2. Data Gathering and Transformation:
 Collected the attendance data from the provided Excel file.
 Cleaned and transformed the data into a suitable format for analysis which includes renaming columns, unpivoting(converting columns into rows), changing datatypes.
 Created a parameter to select the desired data based on a specific condition
 All the steps are encapsulated into the function which will be resused for future sheets and data.
 Load and apply the cleaned data into PowerBI
 
-### Creating Metrics using DAX:
+### 3. Creating Metrics using DAX:
 Using DAX functions like count,sum,calculate,if,switch,divide and Date-Time to create measures and columns to explore clean data 
 
-### Dashboarding with Power BI Desktop:
+### 4. Dashboarding with Power BI Desktop:
 Utilized Power BI Desktop to visualize the data and create interactive dashboards.
 Created a seperate measure table to include all the measures.
 Used filters to filter the data and charts for visualizations.

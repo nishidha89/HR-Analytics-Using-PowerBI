@@ -18,10 +18,10 @@ Load and apply the cleaned data into PowerBI
 Using DAX functions like count,sum,calculate,if,switch,divide and Date-Time to create measures and columns to explore clean data 
 
 ### 4. Dashboarding with Power BI Desktop:
-Utilized Power BI Desktop to visualize the data and create interactive dashboards.
-Created a seperate measure table to include all the measures.
-Used filters to filter the data and charts for visualizations.
+Utilized Power BI Desktop to visualize the data and create interactive dashboards.  
+Created a seperate measure table to include all the measures.  
+Used filters to filter the data and charts for visualizations.  
 
 ## Project Outcome:
-By analysing data through visualizations in dashboard it has been observed that according to months as June is approaching presence percentage is declining, WFH % is increasing, Sick Leave percentage is little bit increasing.
+By analysing data through visualizations in dashboard it has been observed that according to months as June is approaching presence percentage is declining, WFH % is increasing, Sick Leave percentage is little bit increasing.  
 If we have software releases for client across June then we can do release planning accordingly as the presence percentage capacity for June is lower compared to other months.

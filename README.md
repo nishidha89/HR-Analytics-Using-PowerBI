@@ -9,10 +9,9 @@ The project aims to design a Power BI dashboard to track employee data for HR te
 
 ### 2. Data Gathering and Transformation:
 Collected the attendance data from the provided Excel file.  
-Cleaned and transformed the data into a suitable format for analysis which includes renaming columns, unpivoting(converting columns into rows), changing datatypes.
-Created a parameter to select the desired data based on a specific condition
-All the steps are encapsulated into the function which will be reused for future sheets and data.
-
+Cleaned and transformed the data into a suitable format for analysis which includes renaming columns, unpivoting(converting columns into rows), changing datatypes.  
+Created a parameter to select the desired data based on a specific condition.  
+All the steps are encapsulated into the function which will be reused for future sheets and data.  
 Load and apply the cleaned data into PowerBI
 
 ### 3. Creating Metrics using DAX:

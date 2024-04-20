@@ -5,7 +5,7 @@ The project aims to design a Power BI dashboard to track employee data for HR te
 ## Steps followed
 
 ### 1. Understanding problem:
- Defined the scope of the analysis, focusing on attendance patterns,WFH and sick leave percentages.
+The analysis aims to investigate attendance patterns with a focus of understanding the remote work (WFH),sick leave percentages.
 
 ### 2. Data Gathering and Transformation:
 Collected the attendance data from the provided Excel file.  

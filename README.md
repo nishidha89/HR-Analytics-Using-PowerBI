@@ -11,7 +11,7 @@ The project aims to design a Power BI dashboard to track employee data for HR te
 Collected the attendance data from the provided Excel file.
 Cleaned and transformed the data into a suitable format for analysis which includes renaming columns, unpivoting(converting columns into rows), changing datatypes.
 Created a parameter to select the desired data based on a specific condition
-All the steps are encapsulated into the function which will be resused for future sheets and data.
+All the steps are encapsulated into the function which will be reused for future sheets and data.
 Load and apply the cleaned data into PowerBI
 
 ### 3. Creating Metrics using DAX:
@@ -23,5 +23,5 @@ Created a seperate measure table to include all the measures.
 Used filters to filter the data and charts for visualizations.
 
 ## Project Outcome:
-By analysing data through visualizations in dashboard it has been observed that according to months as June is approaching presence percentage is declining, WFH % is increasing, Sick Leave percentage is little bit increasing because of hot summer months.
+By analysing data through visualizations in dashboard it has been observed that according to months as June is approaching presence percentage is declining, WFH % is increasing, Sick Leave percentage is little bit increasing.
 If we have software releases for client across June then we can do release planning accordingly as the presence percentage capacity for June is lower compared to other months.
